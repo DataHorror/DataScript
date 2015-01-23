@@ -1,2 +1,4 @@
-# DataScript
-Data as a script
+DataScript
+==========
+
+A `kuxuan` project with `xuebahang`
