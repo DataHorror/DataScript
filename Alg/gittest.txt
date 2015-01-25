@@ -1,6 +1,0 @@
-github is difficult 
-git is 2
-this is at dev
-changed at master
-creanting a branch is quick and simple
-this is 1
