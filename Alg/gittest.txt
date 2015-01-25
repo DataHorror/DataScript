@@ -1,4 +1,8 @@
 github is difficult 
 git is 2
 this is at dev
+<<<<<<< HEAD
 changed at master
+=======
+creanting a branch is quick and simple
+>>>>>>> dev
